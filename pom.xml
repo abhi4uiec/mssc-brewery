@@ -13,7 +13,7 @@
 	<artifactId>mssc-brewery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mssc-brewery</name>
-	<description>SFG3 Brewery</description>
+	<description>SFG4 Brewery</description>
 
 	<properties>
 		<java.version>11</java.version>
